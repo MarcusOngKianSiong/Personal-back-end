@@ -1,0 +1,3 @@
+[submodule "custom-notion"]
+	path = custom-notion
+	url = git@github.com:MarcusOngKianSiong/custom-notion.git
